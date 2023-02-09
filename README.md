@@ -8,22 +8,23 @@
   <b>Currently working at @MODUS</b>
   <div style="display: flex; align-items: center;justify-content: space-around;">
     <img style="display: inline-block" src="https://komarev.com/ghpvc/?username=akastanas&label=Profile%20views&color=ce9927&style=flat" alt="akastanas" /> 
-    &nbsp;
-    <a href="https://www.linkedin.com/in/akastanas/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> Find me on LinkedIn 🙋‍♂️</a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/akastanas/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"><b> Find me on LinkedIn 🙋‍♂️<b></a>
   </div>
   <br>
-  
-  🟣 Creator of <a href="https://github.com/AchillesKastanas/OnWheels-Maps-for-Wheelchair-Users-Beta">OnWheels - Maps for Wheelchair Users  </a>
-  <br>
-  📖 Studying for a Masters Degree of Advanced Informatics and Computing Systems - Software Development and Artificial Intelligence at University of Piraeus.
-  <br>
-  🎓 Graduated from University of Piraeus, Department of Informatics 
-  <br>
-  🌌 In love with designing and developing clean, minimal and unique user interfaces 
-  <br>
-  🌃 Late Night Coding since 2016 
-  <br>
-  📫 Reach me at: <a href="mailto:achilleasrinos@gmail.com">achilleasrinos@gmail.com</a>
+
+🟣 Creator of <a href="https://github.com/AchillesKastanas/OnWheels-Maps-for-Wheelchair-Users-Beta">OnWheels - Maps for Wheelchair Users </a>
+<br>
+📖 Studying for a Masters Degree of Advanced Informatics and Computing Systems - Software Development and Artificial Intelligence at University of Piraeus.
+<br>
+🎓 Graduated from University of Piraeus, Department of Informatics
+<br>
+🌌 In love with designing and developing clean, minimal and unique user interfaces
+<br>
+🌃 Late Night Coding since 2016
+<br>
+📫 Reach me at: <a href="mailto:achilleasrinos@gmail.com">achilleasrinos@gmail.com</a>
+
 </p>
 <br>
 
