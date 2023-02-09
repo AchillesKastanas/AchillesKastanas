@@ -6,14 +6,10 @@
 <p align="left"></p>
   <h3>Hi, I'm Achilles, a 22 y/o Frontend Developer</h3>
   <b>&nbsp;Currently working at @MODUS</b>
-    <div style="display: flex; align-items:center;justify-content:space-around;">
-    <p style="padding-top: 20px"> 
-      <img src="https://komarev.com/ghpvc/?username=akastanas&label=Profile%20views&color=ce9927&style=flat" alt="akastanas" /> 
-    </p>
-    <h5>
-      <a href="https://www.linkedin.com/in/akastanas/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> Find me on LinkedIn 🙋‍♂️</a>
-    </h5>
-</div>
+  <div style="display: flex; align-items: center;justify-content: space-around; padding: 10px 0">
+    <img style="display: inline-block" src="https://komarev.com/ghpvc/?username=akastanas&label=Profile%20views&color=ce9927&style=flat" alt="akastanas" /> 
+    <a href="https://www.linkedin.com/in/akastanas/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> Find me on LinkedIn 🙋‍♂️</a>
+  </div>
   🟣 Creator of <a href="https://github.com/AchillesKastanas/OnWheels-Maps-for-Wheelchair-Users-Beta">OnWheels - Maps for Wheelchair Users  </a>
   <br>
   📖 Studying for a Masters Degree of Advanced Informatics and Computing Systems - Software Development and Artificial Intelligence at University of Piraeus.
