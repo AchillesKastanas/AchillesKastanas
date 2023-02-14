@@ -5,7 +5,7 @@
 <br>
 <p align="left"></p>
   <h3>Hi, I'm Achilles, a 22 y/o Frontend Developer</h3>
-  <b>Currently working at @MODUS</b>
+  <b>Currently working at @ModusSA</b>
   <div style="display: flex; align-items: center;justify-content: space-around;">
     <img style="display: inline-block" src="https://komarev.com/ghpvc/?username=akastanas&label=Profile%20views&color=ce9927&style=flat" alt="akastanas" /> 
     &nbsp;&nbsp;
