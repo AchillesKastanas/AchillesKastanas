@@ -1,5 +1,3 @@
-# Hello There 👋
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&pause=1000&center=true&width=435&lines=Hello+There+%F0%9F%91%8B;I+am+Achilles;Nice+to+meet+you+%F0%9F%98%84)
 
 I'm Achilles, a 22 y/o Frontend Developer
