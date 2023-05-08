@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=akastanas&label=Profile%20views&color=ce9927&style=flat)
 
-- 🏢 Currently working at **ModusSA**
+- 🏢 Currently working at **Light&Wonder**
 - 🟣 Creator of [OnWheels - Maps for Wheelchair Users](https://github.com/AchillesKastanas/OnWheels-Maps-for-Wheelchair-Users-Beta)
 - 📖 Studying for a Masters Degree of Advanced Informatics and Computing Systems - Software Development and Artificial Intelligence at University of Piraeus
 - 🎓 Graduated from University of Piraeus, Department of Informatics
