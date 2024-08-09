@@ -1,7 +1,8 @@
+<!---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&pause=1000&center=true&width=435&lines=Hello+There+%F0%9F%91%8B;I+am+Achilles;Nice+to+meet+you+%F0%9F%98%84" />
 </p>
-
+-->
 **I'm Achilles, a 23 y/o Frontend Developer**
 
 ![Profile views](https://komarev.com/ghpvc/?username=akastanas&label=Profile%20views&color=90c987&style=flat)
@@ -33,11 +34,3 @@
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" />
 </div>
-
-## Statistics
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AchillesKastanas&show_icons=true&theme=chartreuse-dark&icon_color=white&border_color=2e8b57&hide_border=true" alt="Achilles' GitHub stats">
-  </a>
-</p>
