@@ -4,7 +4,7 @@
 
 **I'm Achilles, a 23 y/o Frontend Developer**
 
-![Profile views](https://komarev.com/ghpvc/?username=akastanas&label=Profile%20views&color=ce9927&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=akastanas&label=Profile%20views&color=90c987&style=flat)
 
 ## Personal Info
 - 🌲 Currently working at **<span style="color:#90c987">Light&Wonder</span>**
