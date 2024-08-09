@@ -6,6 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=akastanas&label=Profile%20views&color=ce9927&style=flat)
 
+## Personal Info
 - 🌲 Currently working at **<span style="color:#90c987">Light&Wonder</span>**
 - 🍃 Creator of [<span style="color:#90c987">OnWheels - Maps for Wheelchair Users</span>](https://github.com/AchillesKastanas/OnWheels-Maps-for-Wheelchair-Users-Beta)
 - 📚 Studying for a Masters Degree of <span style="color:#90c987">Advanced Informatics and Computing Systems</span> - Software Development and Artificial Intelligence at <span style="color:#90c987">University of Piraeus</span>
@@ -17,10 +18,13 @@
 - 🌻 Reach me at: [<span style="color:#90c987">achilleasrinos@gmail.com</span>](mailto:achilleasrinos@gmail.com)
 
 ## Find me on LinkedIn 🙋‍♂️
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AchillesKastanas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akastanas/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/akastanas/">
+    <img src="https://img.shields.io/badge/LinkedIn-AchillesKastanas-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+</div>
 
-## Languages, Frameworks, Tools & Abilities
-
+## Tech Stack & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
