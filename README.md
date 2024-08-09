@@ -1,39 +1,44 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&pause=1000&center=true&width=435&lines=Hello+There+%F0%9F%91%8B;I+am+Achilles;Nice+to+meet+you+%F0%9F%98%84" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hello+There+%F0%9F%91%8B;I'm+Achilles;Frontend+Developer;Plant+Lover;Solo+Game+Dev+%F0%9F%8E%AE" />
 </p>
 
-**I'm Achilles, a 23 y/o Frontend Developer**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akastanas&label=Profile%20views&color=90c987&style=flat" alt="Profile views" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=akastanas&label=Profile%20views&color=ce9927&style=flat)
+---
 
-- 🏢 Currently working at **Light&Wonder**
-- 🟣 Creator of [OnWheels - Maps for Wheelchair Users](https://github.com/AchillesKastanas/OnWheels-Maps-for-Wheelchair-Users-Beta)
-- 📖 Studying for a Masters Degree of Advanced Informatics and Computing Systems - Software Development and Artificial Intelligence at University of Piraeus
-- 🎓 Graduated from University of Piraeus, Department of Informatics
-- 🌌 Passionate about designing and developing clean, minimal, and unique user interfaces
-- 🌃 Late Night Coding since 2016
-- 📫 Reach me at: [achilleasrinos@gmail.com](mailto:achilleasrinos@gmail.com)
+- 🏢 Frontend Developer at **Light&Wonder**
+- 🎮 Solo Game Dev using **Godot 4**
+- 🌿 Plant Lover & Minimalist
+- 🎓 MSc in Advanced Informatics & AI - University of Piraeus
+- 🌌 Passionate about Clean & Unique UIs
+- 📫 Reach me: [achilleasrinos@gmail.com](mailto:achilleasrinos@gmail.com)
 
-## Find me on LinkedIn 🙋‍♂️
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AchillesKastanas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akastanas/)
-
-## Languages, Frameworks, Tools & Abilities
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ExtJs-4479A1?style=flat&logo=sencha&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-</div>
-
-## Statistics
+---
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AchillesKastanas&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Achilles' GitHub stats">
+  <a href="https://www.linkedin.com/in/akastanas/">
+    <img src="https://img.shields.io/badge/LinkedIn-AchillesKastanas-90c987?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
+</p>
+
+---
+
+### Languages, Frameworks & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-90c987?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Javascript-90c987?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Angular-90c987?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Godot-90c987?style=flat&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-90c987?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-90c987?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-90c987?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AchillesKastanas&show_icons=true&theme=graywhite&icon_color=90c987&border_color=90c987&hide_border=true" alt="Achilles' GitHub stats">
 </p>
