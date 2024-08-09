@@ -38,7 +38,6 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AchillesKastanas&show_icons=true&theme=react&icon_color=90c987&border_color=90c987&hide_border=true" alt="Achilles' GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=AchillesKastanas&show_icons=true&theme=chartreuse-dark&icon_color=white&border_color=2e8b57&hide_border=true" alt="Achilles' GitHub stats">
   </a>
 </p>
-
