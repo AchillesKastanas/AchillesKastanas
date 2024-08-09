@@ -24,12 +24,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ExtJs-4479A1?style=flat&logo=sencha&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" />
 </div>
 
 ## Statistics
