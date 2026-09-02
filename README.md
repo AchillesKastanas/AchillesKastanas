@@ -1,8 +1,8 @@
 <h1 align="center">Achilles Kastanas</h1>
 
 <p align="center">
-  <strong>Front-End Game Developer</strong><br />
-  Building interactive iGaming experiences, developer tooling and AI-assisted workflows.
+  <strong>Front-End Game Developer · Founder &amp; Product Engineer at GridStrike</strong><br />
+  Building interactive iGaming experiences by day and real-time tactical maps by night.
 </p>
 
 <p align="center">
@@ -11,6 +11,8 @@
   <a href="mailto:achilleskastanas@gmail.com">Email</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/AchillesKastanas/cv">CV</a>
+  &nbsp;·&nbsp;
+  <a href="https://gridstrike.net">GridStrike</a>
 </p>
 
 <p align="center">
@@ -20,15 +22,15 @@
 ## About
 
 - Front-End Game Developer at **Massive Studios**, building interactive slot games for the iGaming industry.
+- Founder & Product Engineer at **[GridStrike](https://gridstrike.net)**, the real-time tactical map platform, since June 2025.
 - Engineering reusable framework editor tools and a custom game framework across a **PixiJS + TypeScript** ecosystem.
-- Creating polished game experiences with **PixiJS, Spine, GSAP, React and Redux Toolkit**.
+- Owning GridStrike's product direction, architecture and end-to-end delivery across web, mobile and real-time services.
 - Integrating **Anthropic's Claude** and **OpenAI's GPT/ChatGPT models** into internal tooling and development workflows.
 - M.Sc. in Advanced Software Development Technologies and Artificial Intelligence, **University of Piraeus, 2024**.
-- Solo game developer, clean-interface enthusiast and long-time advocate of accessible digital experiences.
 
 ## Core Development
 
-`TypeScript` · `JavaScript` · `React` · `Redux Toolkit` · `PixiJS` · `Spine` · `GSAP` · `Jest` · `React Testing Library` · `Webpack` · `CI/CD`
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `React Native` · `Expo` · `PixiJS` · `Spine` · `GSAP` · `Hono` · `PostgreSQL` · `Go` · `Jest` · `CI/CD`
 
 ## AI, LLMs & Tooling
 
@@ -36,8 +38,8 @@
 
 ## Selected Work
 
+- [GridStrike](https://gridstrike.net) · [GitHub](https://github.com/AchillesKastanas/gridstrike) — real-time tactical maps for live location sharing, team coordination, event planning and replay across web and mobile.
 - [CV](https://github.com/AchillesKastanas/cv) — editable, print-ready HTML CV.
-- [OnWheels](https://github.com/AchillesKastanas/OnWheels-Maps-for-Wheelchair-Users-Beta) — maps designed for wheelchair users.
 
 ## Contact
 
