@@ -1,36 +1,45 @@
-<!---
+<h1 align="center">Achilles Kastanas</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&pause=1000&center=true&width=435&lines=Hello+There+%F0%9F%91%8B;I+am+Achilles;Nice+to+meet+you+%F0%9F%98%84" />
+  <strong>Front-End Game Developer</strong><br />
+  Building interactive iGaming experiences, developer tooling and AI-assisted workflows.
 </p>
--->
-**I'm Achilles, a 25 y/o Frontend Developer**
 
-![Profile views](https://komarev.com/ghpvc/?username=akastanas&label=Profile%20views&color=90c987&style=flat)
+<p align="center">
+  <a href="https://www.linkedin.com/in/akastanas/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:achilleskastanas@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/AchillesKastanas/cv">CV</a>
+</p>
 
-## Personal Info
-- 🌲 Currently working at **<span style="color:#90c987">Light&Wonder</span>**
-- 🍃 Creator of [<span style="color:#90c987">OnWheels - Maps for Wheelchair Users</span>](https://github.com/AchillesKastanas/OnWheels-Maps-for-Wheelchair-Users-Beta)
-- 📚 Studying for a Masters Degree of <span style="color:#90c987">Advanced Informatics and Computing Systems</span> - Software Development and Artificial Intelligence at <span style="color:#90c987">University of Piraeus</span>
-- 🌿 Graduated from <span style="color:#90c987">University of Piraeus</span>, Department of Informatics
-- 🍀 Plant Lover & Advocate of Minimalism
-- 🌌 Passionate about designing and developing clean, minimal, and unique user interfaces
-- 🌱 Godot 4 Solo Developer
-- 🌜 Late Night Coding since <span style="color:#90c987">2016</span>
-- 🌻 Reach me at: [<span style="color:#90c987">achilleasrinos@gmail.com</span>](mailto:achilleasrinos@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AchillesKastanas&label=Profile%20views&color=2b5d34&style=flat" alt="Profile views" />
+</p>
 
-## Find me on LinkedIn 🙋‍♂️
-<div align="center">
-  <a href="https://www.linkedin.com/in/akastanas/">
-    <img src="https://img.shields.io/badge/LinkedIn-AchillesKastanas-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-</div>
+## About
 
-## Tech Stack & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" />
-</div>
+- Front-End Game Developer at **Massive Studios**, building interactive slot games for the iGaming industry.
+- Engineering reusable framework editor tools and a custom game framework across a **PixiJS + TypeScript** ecosystem.
+- Creating polished game experiences with **PixiJS, Spine, GSAP, React and Redux Toolkit**.
+- Integrating **Anthropic's Claude** and **OpenAI's GPT/ChatGPT models** into internal tooling and development workflows.
+- M.Sc. in Advanced Software Development Technologies and Artificial Intelligence, **University of Piraeus, 2024**.
+- Solo game developer, clean-interface enthusiast and long-time advocate of accessible digital experiences.
+
+## Core Development
+
+`TypeScript` · `JavaScript` · `React` · `Redux Toolkit` · `PixiJS` · `Spine` · `GSAP` · `Jest` · `React Testing Library` · `Webpack` · `CI/CD`
+
+## AI, LLMs & Tooling
+
+`Generative AI` · `LLM Integration` · `Anthropic Claude` · `OpenAI GPT/ChatGPT` · `AI Agents` · `Prompt Engineering` · `Context Engineering` · `Model Context Protocol (MCP)` · `Tool/Function Calling`
+
+## Selected Work
+
+- [CV](https://github.com/AchillesKastanas/cv) — editable, print-ready HTML CV.
+- [OnWheels](https://github.com/AchillesKastanas/OnWheels-Maps-for-Wheelchair-Users-Beta) — maps designed for wheelchair users.
+
+## Contact
+
+- [linkedin.com/in/akastanas](https://www.linkedin.com/in/akastanas/)
+- [achilleskastanas@gmail.com](mailto:achilleskastanas@gmail.com)
